@@ -1,0 +1,80 @@
+# CTF Toolkit - Yaygın CTF Şifreleri ve Kelimeleri
+# Author: Muhammet Özkaya
+# GitHub: https://github.com/muhammetozkaya/ctf-toolkit
+# Format: Her satırda bir kelime
+
+# ── Temel Şifreler ────────────────────────────────────────────────────────────
+password
+password123
+admin
+administrator
+root
+toor
+test
+guest
+letmein
+welcome
+qwerty
+abc123
+iloveyou
+monkey
+dragon
+master
+ninja
+shadow
+sunshine
+princess
+
+# ── CTF Özel Şifreler ─────────────────────────────────────────────────────────
+flag
+ctf
+hackme
+hackthebox
+picoctf
+overthewire
+tryitout
+secretkey
+supersecret
+mysecret
+passwd
+passw0rd
+p@ssw0rd
+p@ssword
+s3cr3t
+h4ck3r
+th3fl4g
+g3tm3
+
+# ── Yaygın CTF Servis Şifreleri ───────────────────────────────────────────────
+alpine
+linuxpassword
+debian
+ubuntu
+kali
+parrot
+security
+secureme
+ftp123
+ssh123
+telnet
+service
+backup
+default
+login
+access
+manager
+changeme
+1234
+12345
+123456
+1234567
+12345678
+123456789
+1234567890
+000000
+111111
+666666
+abc
+abcdef
+abcdefgh
+abcdefghij
